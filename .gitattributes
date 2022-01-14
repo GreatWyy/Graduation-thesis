@@ -1,2 +1,3 @@
 README.md filter=lfs diff=lfs merge=lfs -text
 meeting[[:space:]]recordings filter=lfs diff=lfs merge=lfs -text
+2022-01-14.zip filter=lfs diff=lfs merge=lfs -text
